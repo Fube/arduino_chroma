@@ -19,6 +19,8 @@
 -   Joystick
 -   Breadboard
 
+<hr/>
+
 ### General Info
 
 When uploading, do not touch the Joystick, it'll mess up the color calculations. <br/>
