@@ -2,6 +2,12 @@
 
 ## It kinda works
 
+### Fritzing Sketch
+
+![Fritzing Sketch](https://github.com/Fube/arduino_chroma/blob/master/Fritzing%20Sketch.jpg "Fritzing Sketch")
+
+<hr/>
+
 ### Parts Needed
 
 -   Arduino (I used an UNO)
